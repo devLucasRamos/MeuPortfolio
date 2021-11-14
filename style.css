@@ -223,7 +223,7 @@ a:hover{
   
     background-image: url('img/githubinterfaces.png');
     -webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: rgb(230, 216, 216);
+    -webkit-text-stroke-color: #1e1e1a;;
 }
 
 .card-text{
